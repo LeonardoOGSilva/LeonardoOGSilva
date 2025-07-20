@@ -1,16 +1,41 @@
-## Hi there 👋
+# 🧑‍💻 Leonardo Oliveira
 
-<!--
-**LeonardoOGSilva/LeonardoOGSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🧠 Desenvolvedor Back-End | Python • PostgreSQL • Análise de Dados • Segurança Digital**
 
-Here are some ideas to get you started:
+Me chamo Leonardo Oliveira Gomes da Silva, sou formado no ensino médio pela Escola Estadual Prof. Martin Egídio Damy e concluí o curso técnico de ADS na ETEC Albert Einstein. Atualmente, curso o ensino superior em Análise e Desenvolvimento de Sistemas na UNIP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência com desenvolvimento back-end utilizando **Python**, modelagem e consulta de dados com **PostgreSQL**, além de aplicações voltadas para **análise de dados** e **segurança digital**. Também estou me aprofundando em **Business Intelligence**, sempre buscando aprender e evoluir como desenvolvedor.
+
+Você pode acompanhar meus projetos e meu desenvolvimento profissional através do [GitHub](https://github.com/LeonardoOGSilva) e do [LinkedIn](www.linkedin.com/in/leonardo-oliveira-b8b384308).
+
+#
+🤖 Linguagens e ferramentas
+
+<div class="tecnologias">
+    <i class="devicon-python-plain colored"></i>
+    <i class="devicon-postgresql-plain colored"></i>
+    <i class="devicon-javascript-plain colored"></i>
+    <i class="devicon-html5-plain colored"></i>
+</div>
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<style>
+.tecnologias {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+/* Ícones individuais */
+.tecnologias i {
+  font-size: 40px;
+  transition: transform 0.3s ease;
+}
+
+.tecnologias i:hover {
+  transform: scale(1.2);
+}
+</style>
+

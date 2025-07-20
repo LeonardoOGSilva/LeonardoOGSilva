@@ -6,36 +6,35 @@ Me chamo Leonardo Oliveira Gomes da Silva, sou formado no ensino médio pela Esc
 
 Tenho experiência com desenvolvimento back-end utilizando **Python**, modelagem e consulta de dados com **PostgreSQL**, além de aplicações voltadas para **análise de dados** e **segurança digital**. Também estou me aprofundando em **Business Intelligence**, sempre buscando aprender e evoluir como desenvolvedor.
 
-Você pode acompanhar meus projetos e meu desenvolvimento profissional através do [GitHub](https://github.com/LeonardoOGSilva) e do [LinkedIn](www.linkedin.com/in/leonardo-oliveira-b8b384308).
+Você pode acompanhar meus projetos e meu desenvolvimento profissional através do [GitHub](https://github.com/LeonardoOGSilva) e do [LinkedIn](https://www.linkedin.com/in/leonardo-oliveira-b8b384308).
 
-#
-🤖 Linguagens e ferramentas
+---
+
+## 🤖 Linguagens e Ferramentas
 
 <div class="tecnologias">
-    <i class="devicon-python-plain colored"></i>
-    <i class="devicon-postgresql-plain colored"></i>
-    <i class="devicon-javascript-plain colored"></i>
-    <i class="devicon-html5-plain colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" />
 </div>
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <style>
 .tecnologias {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-  margin-top: 10px;
+  margin-top: 15px;
+  align-items: center;
 }
 
-/* Ícones individuais */
-.tecnologias i {
-  font-size: 40px;
+.tecnologias img {
+  width: 50px;
+  height: 50px;
   transition: transform 0.3s ease;
 }
 
-.tecnologias i:hover {
+.tecnologias img:hover {
   transform: scale(1.2);
 }
 </style>
-

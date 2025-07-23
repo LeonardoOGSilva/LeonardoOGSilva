@@ -8,13 +8,24 @@ Tenho experiência com desenvolvimento back-end utilizando **Python**, modelagem
 
 Você pode acompanhar meus projetos e meu desenvolvimento profissional através do [GitHub](https://github.com/LeonardoOGSilva) e do [LinkedIn](https://www.linkedin.com/in/leonardo-oliveira-b8b384308).
 
+![GitHub followers](https://img.shields.io/github/followers/LeonardoOGsilva?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/LeonardoOGSilva?style=social)
 ---
 
 ## 🤖 Linguagens e Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" />
 </p>
+
+## 🤖 Estatísticas
+
+
+![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoOGSilva&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoOGSilva&layout=compact&theme=radical)
+
+

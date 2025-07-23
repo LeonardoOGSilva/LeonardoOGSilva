@@ -24,8 +24,9 @@ Você pode acompanhar meus projetos e meu desenvolvimento profissional através 
 ## 🤖 Estatísticas
 
 
-![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoOGSilva&show_icons=true&theme=radical&count_private=true)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoOGSilva&layout=compact&theme=radical)
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoOGSilva&show_icons=true&theme=radical&count_private=true" width="53%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoOGSilva&layout=compact&theme=radical" width="40%"/>
+  
+</p>

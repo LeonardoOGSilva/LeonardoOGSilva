@@ -1,6 +1,6 @@
 # 🧑‍💻 Leonardo Oliveira
 
-**🧠 Desenvolvedor Back-End | Python • PostgreSQL • Análise de Dados • Segurança Digital**
+**🧠 Análista de dados | Python • PostgreSQL • Análise de Dados • Segurança Digital**
 
 Me chamo Leonardo Oliveira Gomes da Silva, sou formado no ensino médio pela Escola Estadual Prof. Martin Egídio Damy e concluí o curso técnico de ADS na ETEC Albert Einstein. Atualmente, curso o ensino superior em Análise e Desenvolvimento de Sistemas na UNIP.
 

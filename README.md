@@ -1,10 +1,10 @@
 # 🧑‍💻 Leonardo Oliveira
 
-**🧠 Análista de dados | Python • PostgreSQL • Análise de Dados • Segurança Digital**
+**🧠 Estudante de ADS | Python • PostgreSQL • Análise de Dados • Power BI**
 
 Me chamo Leonardo Oliveira Gomes da Silva, sou formado no ensino médio pela Escola Estadual Prof. Martin Egídio Damy e concluí o curso técnico de ADS na ETEC Albert Einstein. Atualmente, curso o ensino superior em Análise e Desenvolvimento de Sistemas na UNIP.
 
-Tenho experiência com desenvolvimento back-end utilizando **Python**, modelagem e consulta de dados com **PostgreSQL**, além de aplicações voltadas para **análise de dados** e **segurança digital**. Também estou me aprofundando em **Business Intelligence**, sempre buscando aprender e evoluir como desenvolvedor.
+Tenho experiência com desenvolvimento back-end utilizando **Python**, modelagem e consulta de dados com **PostgreSQL**, além de aplicações voltadas para **análise de dados** e **segurança digital**. Também estou me aprofundando em **Power BI**, sempre buscando aprender e evoluir como desenvolvedor.
 
 Você pode acompanhar meus projetos e meu desenvolvimento profissional através do [GitHub](https://github.com/LeonardoOGSilva) e do [LinkedIn](https://www.linkedin.com/in/leonardo-oliveira-b8b384308).
 

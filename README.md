@@ -8,7 +8,7 @@ Tenho experiência com desenvolvimento back-end utilizando **Python**, modelagem
 
 Você pode acompanhar meus projetos e meu desenvolvimento profissional através do [GitHub](https://github.com/LeonardoOGSilva) e do [LinkedIn](https://www.linkedin.com/in/leonardo-oliveira-b8b384308).
 
-![GitHub followers](https://img.shields.io/github/followers/LeonardoOGsilva?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/LeonardoOGSilva?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/LeonardoOGSilva?style=social)
 ---
 

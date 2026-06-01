@@ -25,8 +25,6 @@ Você pode acompanhar meus projetos e meu desenvolvimento profissional através 
 
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoOGSilva&show_icons=true&theme=radical" width="53%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoOGSilva&layout=compact&theme=radical" width="40%"/>
-  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeonardoOGSilva&show_icons=true&theme=radical" width="53%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeonardoOGSilva&layout=compact&theme=radical" width="40%"/>
 </p>
